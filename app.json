@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fitcheck-rn",
-    "slug": "fitcheck-rn",
+    "name": "fitcheck",
+    "slug": "fitcheck",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e635ab3c-712d-4573-9a19-8549d7862144"
+      }
+    },
+    "owner": "parekharyaman"
   }
 }
